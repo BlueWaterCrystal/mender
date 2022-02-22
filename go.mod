@@ -3,7 +3,7 @@ module github.com/mendersoftware/mender
 go 1.17
 
 require (
-	github.com/bmatsuo/lmdb-go v1.8.0.7.b9e3bb5a8e4b9aac8972dced855c5aabad6ba2e
+	github.com/bmatsuo/lmdb-go v1.8.0
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/godbus/dbus v4.1.0+incompatible
 	github.com/gorilla/websocket v1.4.3-0.20220104015952-9111bb834a68
