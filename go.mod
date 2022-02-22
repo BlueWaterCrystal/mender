@@ -1,6 +1,6 @@
 module github.com/mendersoftware/mender
 
-go 1.17
+go 1.14
 
 require (
 	github.com/bmatsuo/lmdb-go v1.8.0
